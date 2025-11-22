@@ -1,3 +1,4 @@
+//Example comment
 function sayHi(name) {
   return `Hello there ${name}`
 }
